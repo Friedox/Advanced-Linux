@@ -1,6 +1,9 @@
 # Advanced-Linux
 ## Lab 1
 
+Code:
+https://github.com/Friedox/Advanced-Linux/tree/main/Lab1
+
 Help alias:
 
 ![img_2.png](assets/img_2.png)
