@@ -100,6 +100,10 @@ dm@Ubuntu:~/AdvancedLinux/Lab5/kernel_stack_project/userspace$ ./kernel_stack po
 1
 ```
 
+Screenshot:
+
+![img.png](assets/img.png)
+
 ## Challenges and Solutions
 
 ### Conflict with Default Kernel USB Storage Driver
